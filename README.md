@@ -41,7 +41,7 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 ## Español
 
-License 📜
+## License 📜
 MIT License
 
 Copyright (c) [2023] [Mayleni Chela Magallón]
